@@ -25,3 +25,9 @@ The only functionality of the app is to search a company symbol (e.g. IBM) and s
 In order to test it you should add a file to the project containing a line with your API Key (you can get one [here](https://www.alphavantage.co/)):
 
 final apiKey = "YOUR-API";
+
+The UI is simple, nothing fancy, because that's not the purpose of this project.
+
+<img src="https://user-images.githubusercontent.com/35143405/115074513-15d18f80-9efa-11eb-9afb-c33cfc5bc58e.png" width="300">
+
+<img src="https://user-images.githubusercontent.com/35143405/115074541-1f5af780-9efa-11eb-89d5-d80a2443c4c0.png" width="300">
